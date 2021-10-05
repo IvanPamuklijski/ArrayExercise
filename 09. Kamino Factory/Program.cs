@@ -6,7 +6,7 @@ namespace _09._Kamino_Factory
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello changes");
         }
     }
 }
